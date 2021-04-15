@@ -12,7 +12,7 @@ public abstract class Account {
 		return "AC123456789";
 	}
 	
-	// Abstract Method :: Child Has to Override
+	// Abstract Method :: Child Has to Overridee
 	// asbtract :: declaration of method :: No body
 	// implementation is different for different child
 	// put common things in parent class
